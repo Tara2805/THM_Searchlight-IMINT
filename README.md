@@ -155,3 +155,23 @@ Performed a special search, seen in the image. W find the YouTuber who worked he
 ![alt text](/Images/task6B.png)
 
 **Flag:** sl{Andrew Knowlton}
+
+### Task7
+This challenge will require you to apply some the techniques I have touched on so far: Scanning the image for visual clues, reverse image searching and Google dorking. Tools should not be your primary focus - don't underestimate how far you can get with dorking and scrolling search results. 
+
+![alt text](/Images/task7.png)
+
+#### Question
+What is the name of this statue?
+#### Answer
+We performed a reverese image search with the image provided. This returned the Location as bloggers would publish this information openly, however they did not mention the name of the statue. So I searched "motorcycle on a reindeer statue" and found the statues details.
+**Flag:** sl{Rudolph the Chrome Nosed Reindeer }
+
+#### Question
+Who took this image?
+#### Answer
+By searching "Rudolph the Chrome Nosed Reindeer oslo", we get this <a href="https://www.visitoslo.com/en/articles/outdoor-sculptures-in-oslo/">website </a>
+
+![alt text](/Images/task7authoer.png)
+
+**Flag:** sl{Rudolph the Chrome Nosed Reindeer }
