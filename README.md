@@ -174,4 +174,7 @@ By searching "Rudolph the Chrome Nosed Reindeer oslo", we get this <a href="http
 
 ![alt text](/Images/task7authoer.png)
 
-**Flag:** sl{Rudolph the Chrome Nosed Reindeer }
+**Flag:** sl{kjersti stensrud}
+
+### Task8
+
