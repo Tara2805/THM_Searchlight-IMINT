@@ -178,3 +178,35 @@ By searching "Rudolph the Chrome Nosed Reindeer oslo", we get this <a href="http
 
 ### Task8
 
+![alt text](/Images/task8.png)
+
+#### Question
+What is the name of the character that the statue depicts?
+#### Answer
+I used TinEye to do a reverse image search. All images were named "Blind Justice", I searched this and found it depicted "Lady Justice"
+
+![alt text](/Images/task8Tineye.png)
+
+**Flag:** sl{lady justice}
+
+#### Question
+where is this statue located?
+#### Answer
+In some of the returned related images during the reverse search, different positions of the original were seen. Images taken from below of the statue proved the original statue is in the USA, as it was written on the building behind.
+
+![alt text](/Images/task8A.png)
+
+When I search "Lady Justice USA Court", I am returned with images of the full name/location of the courthouse.
+
+![alt text](/Images/task8B.png)
+
+So now I just need to search "lady justice USA albert v bryan courthouse" to get the full original location.
+
+**Flag:** sl{alexandria, virginia}
+
+#### Question
+What is the name of the building opposite from this statue?
+#### Answer
+By going on Google Maps, we can find this answer.
+
+**Flag:** sl{the westin alexandria old town}
