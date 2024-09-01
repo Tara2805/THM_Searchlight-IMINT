@@ -210,3 +210,24 @@ What is the name of the building opposite from this statue?
 By going on Google Maps, we can find this answer.
 
 **Flag:** sl{the westin alexandria old town}
+
+### Task9
+Geolocating videos aren't much different from geolocating images. A video is just a string of images, usually played at 24 frames(or images) per second. In other words, a video will hold a whole lot more images that can be analyzed, reversed and scrutinized by you. 
+
+#### Question
+What is the name of the hotel that my friend stayed in a few years ago?
+
+#### Answer
+The only frame of interest is seen below:
+
+![alt text](/Images/task9A.png)
+
+The key bit of information from this frame is *clarke quay central*. Searching it on Google tells us this location is a shopping centre in Singapore.
+
+![alt text](/Images/task9B.png)
+
+To answer the question we need to watch the video again, and find the exact hotel we need. Going on Google Maps will let us know the name of the hotel. 
+
+![alt text](/Images/task9C.png)
+
+**Flag:** sl{novotel singapore clarke quay}
