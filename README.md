@@ -231,3 +231,4 @@ To answer the question we need to watch the video again, and find the exact hote
 ![alt text](/Images/task9C.png)
 
 **Flag:** sl{novotel singapore clarke quay}
+
