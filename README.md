@@ -103,16 +103,52 @@ A friend of mine contacted me asking if I could help them locate a coffee shop t
 ![alt text](/Images/task5B.png)
 
 #### Answers
-Search *the edinburgh woolen mill on corner* on Google, an article on the<a href="https://www.dailyrecord.co.uk/news/local-news/edinburgh-woollen-mill-group-rescued-23320228">Daily record</a> is returned and shows the same store, with the location noted.
+We see in the background a popular shop chain. Search *the edinburgh woolen mill on corner* on Google, an article on the<a href="https://www.dailyrecord.co.uk/news/local-news/edinburgh-woollen-mill-group-rescued-23320228">Daily record</a> is returned and shows the same store, with the location noted.
 
 ![alt text](/Images/task5location.png)
 
 #### Question
 Which city is this coffee shop located in?
 **Flag:** sl{blairgowrie}
+
 #### Question
-Which city is this coffee shop located in?
-**Flag:** sl{blairgowrie}
+Which street is this coffee shop located in?
+#### Answer
+As we have the EWM location, we can go on Maps and find the coffee shops details
+
+![alt text](/Images/task5coffee.png)
+
+**Flag:** sl{allan street}
+
 #### Question
-Which city is this coffee shop located in?
-**Flag:** sl{blairgowrie}
+What is their phone number?
+**Flag:** sl{+447878 839128}
+
+#### Question
+What is their email address?
+#### Answer
+Go the coffee shops Facebook page, which is linked on their Maps information. In the Facebook details the email address is listed. 
+**Flag:** sl{theweecoffeeshop@aol.com}
+
+#### Question
+What is the surname of the owners?
+#### Answer
+Search "The wee coffee shop" "owner"
+**Flag:** sl{Cochrane}
+
+### Task6
+One of the methods for geolocating an image is to do an image reverse search. This means that we are searching for the image itself online, and if the image has been indexed by search engines we may find the exact image or we can do a visual search or crop search to help us find similar images. 
+
+![alt text](/Images/task6.png)
+
+#### Question
+Which restaurant was this picture taken at?
+#### Answer
+We performed a reverese image search with the image provided and found all necessary details from a related Trip adviser. 
+**Flag:** sl{katz's deli}
+
+#### Question
+What is the name of the Bon Appétit editor that worked 24 hours at this restaurant?
+#### Answer
+Performed a special searc
+**Flag:** sl{katz's deli}
