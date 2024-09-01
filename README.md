@@ -150,5 +150,8 @@ We performed a reverese image search with the image provided and found all neces
 #### Question
 What is the name of the Bon Appétit editor that worked 24 hours at this restaurant?
 #### Answer
-Performed a special searc
-**Flag:** sl{katz's deli}
+Performed a special search, seen in the image. W find the YouTuber who worked here for 24 hours. The YouTube channel is 'Bon Appétit'. The editors name we're looking for is in the video description. 
+
+![alt text](/Images/task6B.png)
+
+**Flag:** sl{Andrew Knowlton}
